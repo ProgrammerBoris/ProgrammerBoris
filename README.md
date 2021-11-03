@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ProgrammerBoris
-- 👀 I’m interested in IT projectmanagement and development
+- 👀 I’m interested in IT projectmanagement and software development
 - ✨ I'm an expert in Excel automation, including macro's in VBA
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to work on coding projects in VBA and Java
